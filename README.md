@@ -6,12 +6,12 @@
 
 # Preview using karma-interaction ( Pickup & Drop Bike )
 
-![image](https://cdn.discordapp.com/attachments/640330555119894548/1262849537375207436/image.png)
-![image](https://cdn.discordapp.com/attachments/640330555119894548/1262849538260209886/image.png)
+![image](https://i.imgur.com/L1jawFa.jpeg)
+![image](https://i.imgur.com/GrmQwC6.jpeg)
 
 # Preview using qb-target ( in this case i used karma-target )
 
-![image](https://cdn.discordapp.com/attachments/640330555119894548/1262849656518610975/image.png)
+![image](https://i.imgur.com/zH80PrN.jpeg)
 
 
 ## Use our karma-interaction at : 
